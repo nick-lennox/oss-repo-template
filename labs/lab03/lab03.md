@@ -13,11 +13,14 @@ Matrix in LaTeX: \
 `1 & -1 & -1 & 1 & 1 \\` \
 `\end{bmatrix}$`
 
+<img src="https://i.imgur.com/0I9axAj.png" width=500>
+
 ###### Part 2
 | Repository | # of contrib | # of lines | first commit | last commit | curr branches |
 | --- | --- | --- | --- | --- | --- |
 | https://github.com/brianhotopp/fastfoodatabase | 2 | 31731 | Mar. 6 2021 | May 2 2021 | 3
 | git diff | Show file differences that haven't been staged |
 
-Gource for FastFoodDatabase: \
-<img src="https://i.imgur.com/lmq5xoU.png" width=1000>
+<b>Gource for FastFoodDatabase:</b>
+
+<img src="https://i.imgur.com/lmq5xoU.png" width=750>
