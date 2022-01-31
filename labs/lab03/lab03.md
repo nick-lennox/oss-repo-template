@@ -6,7 +6,7 @@ Formulae in LaTeX:
 `$\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2}}}}$`
 
 
-Matrix in LaTeX: \
+Matrix in LaTeX: 
 ```
 H = $\begin{bmatrix} \
 1 & 1 & 1 & 1 & 1 \\ \
