@@ -8,3 +8,5 @@ My name is Nick Lennox and I'm currently a fourth-year CS major. I'm from Worces
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
+[Lab 2](labs/lab02/report.md)
+[Lab 3](labs/lab03/report.md)
