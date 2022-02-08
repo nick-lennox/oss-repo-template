@@ -1,6 +1,6 @@
 # Lab 4
 
-1. This lab is licensed under the [Creative Commons Attributions 4.0 International License}(https://creativecommons.org/licenses/by/4.0/)
+1. This lab is licensed under the [Creative Commons Attributions 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
 
 2. Licensing is imperative for the general public to understand how that can interact with IP. 
 Without licensing, the public cannot assume anything about what is acceptable usage; any improper usage could result in legal trouble. With a license, however,
